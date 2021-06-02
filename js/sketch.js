@@ -11,9 +11,9 @@ function preload(){
   dogimg1 = loadImage("images/Dog.png");
   dogimg2 = loadImage("images/happy dog.png");
 
-  bedroomImg = loadImage("images/ BedRoom.png");
-  gardenImg = loadImage("images/ Garden.png");
-  washroomImg = loadImage("images/ Wash Room.png");
+  bedroomImg = loadImage("images/BedRoom.png");
+  gardenImg = loadImage("images/Garden.png");
+  washroomImg = loadImage("images/Wash Room.png");
 
 }
 
